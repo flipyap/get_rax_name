@@ -4,13 +4,13 @@ Python script that gets a server name from a UUID in the Rackspace cloud
 *Currently the script may not work correctly with UK accounts*
 
 
-## Setting up 
+# Setting up 
 
 
 I highly recommend setting up a [python virtual environment](https://docs.python.org/3/library/venv.html) before installing the 
 python dependcies for this script. You can easily do this with the following:
 
-# Create virtual environment
+## Create virtual environment
 ```
 python3 -m venv <path-to-environemnt>
 
@@ -19,7 +19,7 @@ ex:
 python3 -m venv ~/.rax
 
 ```
-#Activate the environment
+## Activate the environment
 ```
 source <path-to-environemnt>/bin/activate
 
