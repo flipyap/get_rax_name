@@ -176,6 +176,8 @@ if __name__ == '__main__':
 
     if args.config:
         wipe_keyring_credentials()
+        username,password = getset_keyring_credentials()
+        exit()
 
 
     username,password = getset_keyring_credentials()   
