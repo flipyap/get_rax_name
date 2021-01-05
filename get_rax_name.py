@@ -23,7 +23,7 @@ from urllib.parse import urlparse
 
 
 
-REGIONS= ['DFW', 'ORD', 'IAD', 'SYD', 'HKG']
+REGIONS= ['DFW', 'ORD', 'IAD', 'SYD', 'HKG', 'LON']
 
 def getset_keyring_credentials(username=None, password=None):
     #Method to retrieve credentials from keyring.
