@@ -1,8 +1,6 @@
 # get_rax_name
 Python script that gets a server name from a UUID in the Rackspace cloud
 
-*Currently the script may not work correctly with UK accounts*
-
 
 # Setting up 
 
