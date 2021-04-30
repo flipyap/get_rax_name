@@ -11,4 +11,4 @@ pycparser==2.19
 requests==2.22.0
 SecretStorage==3.1.1
 six==1.13.0
-urllib3==1.25.7
+urllib3==1.25.8
